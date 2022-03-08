@@ -10,7 +10,7 @@ namespace TestCIMerging
     {
         static void Ma in(string[] args)
         {
-            Console.WriteLine("hello1")
+            Console.WriteLine(hello1")
             Console.Read();
         }
     }
